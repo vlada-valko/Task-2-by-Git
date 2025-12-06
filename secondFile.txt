@@ -1,5 +1,5 @@
-line 1 updated git_2
-line 2 updated git_2
+line 1 updated git_2 updare
+line 2 updated git_2 update 
 line 3
 line 4
 line 5
